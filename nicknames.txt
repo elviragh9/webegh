@@ -1,1 +1,5 @@
-nicknames
+nicknames:
+
+Elvi
+Lexy
+Yazwi
